@@ -1,1 +1,1 @@
-# eatal-coming-soon
+# eatal-coming-soon Landing Page
